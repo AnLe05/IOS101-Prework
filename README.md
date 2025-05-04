@@ -37,7 +37,7 @@ Favorite Apps & Features
 - Personalized daily goals
 - Fun and interactive quizzes
 
-My app idea: letsmeet - Collaborative study room booking 
+My app idea: letsmeet - Collaborative study room booking. 
 letsmeet is a mobile app that makes it easy for students to find and book available study rooms on campus, and collaborate with classmates. Instead of using clunky booking systems or spreadsheets, users can view real-time room availability, request bookings, and coordinate study sessions all from their phone. Features include a booking calendar, smart room suggestions based on group size and time preferences, RSVP-based group invitations, and push notifications for booking confirmations or upcoming sessions. In future versions, the app could support recurring bookings, group chat, and QR-code-based room check-ins.
   
 ## License
